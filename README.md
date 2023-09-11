@@ -52,6 +52,15 @@ jika kamu run di termux ketik
     
 Jika run di panel cukup masukkan file .zip nya ke panel dan unarchive
     
+## Usage
+
+```javascript
+1. Bikin Bot api dulu di @botfather
+2. Jika sudah membuat masukkan ke config.js dan masukkan ke bot_token
+3. done
+```
+
+
 ## Authors
 
 - [@promptdrake](https://www.github.com/promptdrake)
